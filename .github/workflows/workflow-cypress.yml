@@ -19,7 +19,7 @@ jobs:
           install-command: yarn install
           wait-on: ${{ secrets.BASE_URL }}
           wait-on-timeout: 120
-          browser: chrome
+          browser: edge
           record: true
           group: 'UI - Chrome'
           spec: cypress/integration/*
