@@ -1,0 +1,47 @@
+{
+    "signup": {
+        "name": "Vinicius Ramos",
+        "email": "vinicius.santana@teste.com",
+        "cpf": "44074558747",
+        "whatsapp": "11945778545",
+        "adress": {
+            "postalcode": "04850220",
+            "street": "Rua Ugo Fóscolo",
+            "number": "200",
+            "details": "APTO 142",
+            "district": "Parque Cocaia",
+            "city_state": "São Paulo/SP"
+        },
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Carlos Souza",
+        "email": "carlos.souza@teste.com",
+        "cpf": "44074558AA7",
+        "whatsapp": "11923145124",
+        "adress": {
+            "postalcode": "04850220",
+            "street": "Rua Ugo Fóscolo",
+            "number": "200",
+            "details": "APTO 142",
+            "district": "Parque Cocaia",
+            "city_state": "São Paulo/SP"
+        },
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_env": {
+        "name": "Vinicius Ramos",
+        "email": "vinicius.com.br",
+        "cpf": "44074558747",
+        "whatsapp": "11945778545",
+        "adress": {
+            "postalcode": "04850220",
+            "street": "Rua Ugo Fóscolo",
+            "number": "200",
+            "details": "APTO 142",
+            "district": "Parque Cocaia",
+            "city_state": "São Paulo/SP"
+        },
+        "cnh": "cnh-digital.jpg"
+    }
+}
